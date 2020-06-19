@@ -42,6 +42,7 @@
                 android:padding="@dimen/_4sdp"
                 android:src="@drawable/ic_done"
                 android:tint="@color/colorIcons"
+                android:clickable="true"
                 app:layout_constraintBottom_toBottomOf="@id/imageBack"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintTop_toTopOf="@id/imageBack"/>
